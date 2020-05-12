@@ -6,7 +6,7 @@ use Web3\Contract;
 
 /**
  * testAbi
- * GameToken abi from https://github.com/sc0Vu/GameToken
+ * GameToken abi from https://github.com/aiwozhe/GameToken
  *
  * @var string
  */
@@ -262,7 +262,7 @@ $testAbi = '[
 
 /**
  * testBytecode
- * GameToken abi from https://github.com/sc0Vu/GameToken
+ * GameToken abi from https://github.com/aiwozhe/GameToken
  *
  * @var string
  */

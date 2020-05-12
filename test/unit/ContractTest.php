@@ -23,7 +23,7 @@ class ContractTest extends TestCase
 
     /**
      * testAbi
-     * GameToken abi from https://github.com/sc0Vu/GameToken
+     * GameToken abi from https://github.com/aiwozhe/GameToken
      *
      * @var string
      */
@@ -279,7 +279,7 @@ class ContractTest extends TestCase
 
     /**
      * testBytecode
-     * GameToken abi from https://github.com/sc0Vu/GameToken
+     * GameToken abi from https://github.com/aiwozhe/GameToken
      *
      * @var string
      */
