@@ -17,13 +17,13 @@ Set minimum stability to dev
 
 Then
 ```
-composer require aiwozhe/web3.php dev-master
+composer require aiwozhe/web3
 ```
 
 Or you can add this line in composer.json
 
 ```
-"aiwozhe/web3.php": "dev-master"
+"aiwozhe/web3": "*"
 ```
 
 
